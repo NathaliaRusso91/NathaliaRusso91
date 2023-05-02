@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente estou trabalhando com Management Case na Dell
-- 🌱 Estou aprendendo Front-End
+- 🔭 Atualmente estou buscando me encaixar na area da programação.
+- 🌱 Estou aprendendo a programação em geral e buscando me encontrar na área correta.
 - 📫 Contate-me no e-mail: nruthrusso@gmail.com
 - 😄 Pronome: Ela/Dela e Ele/Dele
 
